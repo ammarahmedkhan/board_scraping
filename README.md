@@ -1,6 +1,13 @@
 # board_scraping
-Scraping the Billboard Hot 100 Site for data
+Scraping the Billboard Hot 100 Site for data and extract following features
 
+chart date,
+song,
+artists,
+current_rank,
+last_week,
+peak_pos,
+weeks on chart,
 This works by submitting requests to the billboard hot 100 website for data 
 
 I have used https://www.billboard.com/charts/pop-songs/2014-10-18 . 
